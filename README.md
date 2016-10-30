@@ -13,3 +13,5 @@ The cross hairs of your rifle keep shaking. You need to use the joystick or acce
 
 ## Other
 You can select he name and country of your player. You can compare your score to the actual Olympic competitors as well as other players of the game in the leaderboards section.
+
+[All code can be found here](https://github.com/sashankg/DeadEyeShooting/)
