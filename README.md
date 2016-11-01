@@ -1,4 +1,4 @@
-# DeadEyeShooting
+# Marksman Shooting
 iOS Olympic Rifle Shooting 2D game
 
 ## Background
